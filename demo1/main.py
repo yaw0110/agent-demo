@@ -7,7 +7,7 @@ import os
 # 请根据您使用的服务，将这里替换成对应的凭证和地址
 API_KEY = "ms-4e55fca8-6ca7-4b65-b975-d5430d7594b5"
 BASE_URL = "https://api-inference.modelscope.cn/v1/"
-MODEL_ID = "deepseek-ai/DeepSeek-V3.2"
+MODEL_ID = "ZhipuAI/GLM-4.7-Flash"
 TAVILY_API_KEY = "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"
 os.environ['TAVILY_API_KEY'] = "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"
 
