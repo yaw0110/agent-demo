@@ -1,4 +1,4 @@
-from demo3.main import HelloAgentsLLM
+from demo3.HelloAgentsLLM import HelloAgentsLLM
 from demo4.ToolExecutor import ToolExecutor
 
 import re
