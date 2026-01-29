@@ -3,8 +3,8 @@
 from demo4.ToolExecutor import ToolExecutor
 from demo4.search import search
 from dotenv import load_dotenv
-from demo3.main import HelloAgentsLLM
-from demo5.ReActAgent import ReActAgent
+from demo3.HelloAgentsLLM import HelloAgentsLLM
+from demo4.ReActAgent import ReActAgent
 
 load_dotenv()
 
